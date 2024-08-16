@@ -72,4 +72,38 @@ Para tachar se debe colocar "doble `virgulilla` al inicio y al final del la pala
 ~~Esto es una frase~~
 ```
 
+**Resultado:**
+
+~~PALABRA~~
+
+~~Esto es una frase~~
+
 ## Resaltado (Highlight)
+
+Esto es equivalente a aplicar **marcatexto**.
+La sintaxis es colocando doble *signo de igual, sin espacio, al inicio al final* de la palabra o frase.
+
+```markdown
+==WORD==
+
+==THIS IS A PARAGRAPH==
+```
+
+**Resultado:**
+
+==WORD==
+
+==THIS IS A PARAGRAPH==
+
+
+> 📝 ***Nota:** Esta sintaxis es extendido de `markdown`. No siempre funciona.*
+
+Si no funciona, se usa `HTML`. Ejemplo:
+
+```html
+<mark>WORD</mark>
+<mark>THIS IS A PARAGRAPH</mark>
+```
+
+<mark>WORD</mark>
+<mark>THIS IS A PARAGRAPH</mark>

@@ -16,7 +16,9 @@ Para colocar títulos y subtítulos en `markdown` se ocupa en *hash* `#`, al **I
 
 > *Después, del hash va un espacio*
 
-## Recomendaciones de los titulo y subtítulos
+---
+
+# Recomendaciones de los titulo y subtítulos
 
 - Solo debe haber un titulo por archivo
 - Después del titulo, debe ir un subtitulo, es decir; no puede haber sub-subtitulo entre titulo y subtitulo.
@@ -29,34 +31,3 @@ Para colocar títulos y subtítulos en `markdown` se ocupa en *hash* `#`, al **I
 
     ## Subtitulo
     ```
-
-```mermaid
-mindmap
-  root((mindmap))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    title Key elements in Product X
-    "Calcium" : 42.96
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" :  5
-
-```
