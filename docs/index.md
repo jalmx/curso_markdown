@@ -1,4 +1,4 @@
-# Introducción a Markdown
+# Introducción a Markdown 📔
 
 Es subconjunto reducido de instrucciones de HTML, nos sirve para:
 
@@ -12,7 +12,7 @@ Es subconjunto reducido de instrucciones de HTML, nos sirve para:
 - Formulas matemáticas
 - Presentaciones
 
-> NO DEPENDE DE UN SOFTWARE, porque es un archivo `PLANO` 👽
+> ✅ Markdown NO DEPENDE DE UN SOFTWARE, porque es un archivo `PLANO` 👽
 
 ## Ejemplo
 

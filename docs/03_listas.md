@@ -85,7 +85,9 @@ Para definir estas listas de tareas usa un guion medio, un espacio, un corchetes
 **Ejemplo:**
 
 `- [ ]` task 1
+
 `- [x]` task 2
+
 `- [ ]` task 3
 
 **Resultado:**
@@ -94,6 +96,6 @@ Para definir estas listas de tareas usa un guion medio, un espacio, un corchetes
 - [x] task 2
 - [ ] task 3
 
+![result](assets/task_example.png)
 
----
-
+> 📝 **Nota:** Si no se ve de manera correcta, es que la herramienta que renderiza el HTML, no tiene el plugin
